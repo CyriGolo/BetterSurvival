@@ -1,0 +1,11 @@
+fr\cyri\BetterSurvival.class
+fr\cyri\commands\RemoveHomeCommand.class
+fr\cyri\commands\HomesCommand.class
+fr\cyri\listeners\JoinListener.class
+fr\cyri\tasks\ItemSpawnTask.class
+fr\cyri\listeners\ChatListener.class
+fr\cyri\commands\SetHomeCommand.class
+fr\cyri\utils\MessageUtils.class
+fr\cyri\listeners\DamageListener.class
+fr\cyri\commands\HomeCommand.class
+fr\cyri\managers\HomeManager.class
